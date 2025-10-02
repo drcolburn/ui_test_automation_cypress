@@ -1,0 +1,28 @@
+{
+  "name": "test_repo",
+  "version": "1.0.0",
+  "description": "Cypress Test Automation Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "test:chrome": "cypress run --browser chrome",
+    "test:firefox": "cypress run --browser firefox",
+    "test:edge": "cypress run --browser edge",
+    "test:headed": "cypress run --headed",
+    "test:spec": "cypress run --spec",
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
+    "cypress:verify": "cypress verify"
+  },
+  "keywords": [
+    "cypress",
+    "testing",
+    "e2e",
+    "automation"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^15.3.0"
+  }
+}
