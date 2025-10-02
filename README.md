@@ -2,6 +2,15 @@
 
 A well-structured Cypress test automation framework with page object models, utility functions, and reusable components.
 
+## GitHub Copilot prompt used to create this repository's content
+
+```
+Create a Cypress test automation framework for a web application. The framework should include:
+
+1.  **Project Structure:** Organize tests, page objects, and utility functions in a clear and maintainable directory structure.
+
+```
+
 ## 📁 Project Structure
 
 ```
